@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0DF0896F-4539-4316-828A-8332E5CD170D}</ProjectGuid>
+    <ProjectGuid>{3A1CCE82-0418-4B34-87B2-DD9CC47CFFCF}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>NetZipper</RootNamespace>
     <AssemblyName>NetZipper</AssemblyName>

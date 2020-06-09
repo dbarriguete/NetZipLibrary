@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9AJRV9SsKzTxG5rI0TQIG/HNnyQhk06Cj+IockBmi9ch89srMwW/TuFSKKBk8e+rwckcR1FMlts5fAopBRjduA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego\\Documents\\Development\\NetZipLibrary\\NetZipLibrary\\NetZipLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
