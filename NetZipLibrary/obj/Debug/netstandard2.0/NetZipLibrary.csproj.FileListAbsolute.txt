@@ -1,0 +1,9 @@
+C:\Users\diego\Documents\Development\NetZipLibrary\NetZipLibrary\bin\Debug\netstandard2.0\NetZipLibrary.deps.json
+C:\Users\diego\Documents\Development\NetZipLibrary\NetZipLibrary\bin\Debug\netstandard2.0\NetZipLibrary.dll
+C:\Users\diego\Documents\Development\NetZipLibrary\NetZipLibrary\bin\Debug\netstandard2.0\NetZipLibrary.pdb
+C:\Users\diego\Documents\Development\NetZipLibrary\NetZipLibrary\obj\Debug\netstandard2.0\NetZipLibrary.csprojAssemblyReference.cache
+C:\Users\diego\Documents\Development\NetZipLibrary\NetZipLibrary\obj\Debug\netstandard2.0\NetZipLibrary.csproj.CoreCompileInputs.cache
+C:\Users\diego\Documents\Development\NetZipLibrary\NetZipLibrary\obj\Debug\netstandard2.0\NetZipLibrary.AssemblyInfoInputs.cache
+C:\Users\diego\Documents\Development\NetZipLibrary\NetZipLibrary\obj\Debug\netstandard2.0\NetZipLibrary.AssemblyInfo.cs
+C:\Users\diego\Documents\Development\NetZipLibrary\NetZipLibrary\obj\Debug\netstandard2.0\NetZipLibrary.dll
+C:\Users\diego\Documents\Development\NetZipLibrary\NetZipLibrary\obj\Debug\netstandard2.0\NetZipLibrary.pdb
