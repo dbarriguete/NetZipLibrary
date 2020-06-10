@@ -13,7 +13,6 @@ namespace NetZipper
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("#####################################");
             Console.WriteLine("Welcome to NetZip");
             Console.WriteLine("#####################################");
