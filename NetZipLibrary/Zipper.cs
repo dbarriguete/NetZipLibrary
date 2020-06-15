@@ -42,14 +42,14 @@ namespace NetZipLibrary
 
         public static void AddBinaryFilesToZip(string zipPath, string zipName, string sourcePath, string fileName)
         {
-            using (FileStream zipToOpen = new FileStream(Path.GetFullPath(zipPath + "\\" + zipName), FileMode.Open))
+            using (FileStream zipToOpen = new FileStream(Path.GetFullPath(zipPath + "\\" + zipName), FileMode.OpenOrCreate))
             {
                 using (ZipArchive archive = new ZipArchive(zipToOpen, ZipArchiveMode.Update))
                 {
                     ZipArchiveEntry readmeEntry = archive.CreateEntry(fileName);
 
                     BinaryWriter s = new BinaryWriter(readmeEntry.Open());
-                    using (FileStream fs = System.IO.File.OpenRead(fileName))
+                    using (FileStream fs = System.IO.File.OpenRead( Path.GetFullPath(sourcePath+"\\"+ fileName)))
                     {
                         byte[] buffer = new byte[fs.Length];
                         fs.Read(buffer, 0, (int)fs.Length);
@@ -58,5 +58,6 @@ namespace NetZipLibrary
                 }
             }
         }
+
     }
 }
